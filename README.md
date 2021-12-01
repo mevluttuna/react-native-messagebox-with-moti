@@ -8,7 +8,7 @@ const [isShow, setIsShow] = useState(false);
   isShow={isShow}
     onClickResponse={response => {
       console.log(response);
-       setIsShow(false);
+      setIsShow(false);
     }}
 />
       
