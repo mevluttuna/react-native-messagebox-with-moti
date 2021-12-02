@@ -14,6 +14,13 @@ const [isShow, setIsShow] = useState(false);
       
 ```
 
+<img
+  width="1779"
+  alt="Mevlüt Tuna Github"
+  src="https://github.com/mevluttuna/react-native-messagebox-with-moti/blob/main/moti.gif?raw=true"
+/>
+
+
 # Documentation & Examples
 
 - [Documentation](https://moti.fyi)
