@@ -5,7 +5,7 @@ Example My Component:
 const [isShow, setIsShow] = useState(false);
 
 <MessageBox
-  isShow={isShow}
+    isShow={isShow}
     onClickResponse={response => {
       console.log(response);
       setIsShow(false);
